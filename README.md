@@ -6,6 +6,7 @@ When a user asks a question, the system first searches a memory-based knowledge 
 <hr>
 Technologies Used:
 
+
 1.Python
 
 2.LangGraph
@@ -16,6 +17,7 @@ Technologies Used:
 <hr>
 Features:
 
+
 -AI-powered IT support assistant
 
 -Memory-based solution retrieval
@@ -25,6 +27,7 @@ Features:
 -Simple command-line interface
 <hr>
 How to Run:
+
 Install dependencies:
 
     pip install transformers langgraph torch
